@@ -50,6 +50,7 @@ class Aktive_Traders{
             trader_custom.add(s);
         }
         System.out.print(traders(trader_custom));
+        // answer = [Acme,Bigcorp,Zork]
 
 
     }
