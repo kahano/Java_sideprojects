@@ -1,7 +1,6 @@
-import java.util.Scanner;
-import java.io.File;
+
 import java.util.HashMap;
-import java.io.PrintWriter;
+
 
 class Kunde{
 
